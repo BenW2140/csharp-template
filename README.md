@@ -30,7 +30,7 @@ Software Requirements:
 
 ## Specs
 
-| |
+Behavior|Input|Output
 ------|------|------
 | |
 
